@@ -2,9 +2,14 @@
   
   This project is a little memory game build with React for learning purposes only, using free images from the internet.
   
+  You can access the website by clicking on the link below:<br>
+  https://lucid-meitner-c649e4.netlify.app/
   
+  
+  
+  <br>
   <p align="center">
-  <img width="600" height="300" src="https://media1.giphy.com/media/uqevoBe4nEKYNOt26H/giphy.gif?cid=790b761188c97913b55eabe8f957432ed115a3841380951c&rid=giphy.gif&ct=g">
+  <img width="" height="" src="https://cdn.kapwing.com/final_61f5ce6cb4f344005b486cca_965387.gif">
 </p>
 
 # Getting Started with Create React App
