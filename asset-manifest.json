@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memoria-magica/static/css/main.d4dae1e4.css",
+    "main.js": "/memoria-magica/static/js/main.290d47a7.js",
+    "index.html": "/memoria-magica/index.html",
+    "main.d4dae1e4.css.map": "/memoria-magica/static/css/main.d4dae1e4.css.map",
+    "main.290d47a7.js.map": "/memoria-magica/static/js/main.290d47a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4dae1e4.css",
+    "static/js/main.290d47a7.js"
+  ]
+}
