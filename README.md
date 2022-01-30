@@ -3,7 +3,8 @@
   This project is a little memory game build with React for learning purposes only, using free images from the internet.
   
   You can access the website by clicking on the link below:<br>
-  https://lucid-meitner-c649e4.netlify.app/
+  <a href="https://lucid-meitner-c649e4.netlify.app/" target="_blank">Memória Mágica</a>
+  
   
   
   
